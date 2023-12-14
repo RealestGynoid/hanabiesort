@@ -1,5 +1,4 @@
 # Hanabie Song sorter
 
-http://hanabiesort.github.io/
-
+https://realestgynoid.github.io/hanabiesort/
 
